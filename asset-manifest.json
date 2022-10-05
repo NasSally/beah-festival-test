@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beah-festival-test/static/css/main.4d94c14f.css",
+    "main.js": "/beah-festival-test/static/js/main.c3f4193d.js",
+    "index.html": "/beah-festival-test/index.html",
+    "main.4d94c14f.css.map": "/beah-festival-test/static/css/main.4d94c14f.css.map",
+    "main.c3f4193d.js.map": "/beah-festival-test/static/js/main.c3f4193d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d94c14f.css",
+    "static/js/main.c3f4193d.js"
+  ]
+}
